@@ -12,7 +12,7 @@
 		<string>ydbg</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>https://github.com/zhsgO/gitskills/blob/master/ZXBmobile.ipa</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
