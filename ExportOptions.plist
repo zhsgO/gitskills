@@ -11,7 +11,7 @@
 		<key>com.jsnx.ydbg</key>
 		<string>ydbg</string>
 	</dict>
-	<key>signingCertificate</key>
+	<key>iPhone Distribution: Jiangsu Province Rural Credit Union</key>
 	<string>https://github.com/zhsgO/gitskills/blob/master/ZXBmobile.ipa</string>
 	<key>signingStyle</key>
 	<string>manual</string>
